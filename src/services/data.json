@@ -1,0 +1,21 @@
+[
+    {
+        "userSkills": ["JavaScript", "Node.js", "React"],
+        "opportunitySkills": ["Node.js", "React"],
+        "userTribes": ["Engineering"],
+        "opportunityTribes": ["Engineering"],
+        "titleMatch": true,
+        "matchPercentage": 90,
+        "evaluation": "Excellent match with skills and tribes."
+    },
+    {
+        "userSkills": ["Python", "Machine Learning"],
+        "opportunitySkills": ["Data Analysis", "Python"],
+        "userTribes": ["Data Science"],
+        "opportunityTribes": ["Data Science"],
+        "titleMatch": false,
+        "matchPercentage": 70,
+        "evaluation": "Good fit in skills but lacks title alignment."
+    }
+]
+
